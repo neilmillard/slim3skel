@@ -1,15 +1,15 @@
-# On Call Slim 3 App
+# Slim 3 App Skel with users auth
 based on the skeleton akrabat/slim3-skeleton
 
 This is a simple project for Slim 3 that includes Twig, Flash messages and Monolog. In addition this project
 also has Redbean and Authentication.
 * 'slim_docs': http://www.slimframework.com/docs/index.html
-* 'authentication' : http://github.com/zendframework/zf2
+* 'authentication' : http://github.com/neilmillard/authenticator and http://github.com/zendframework/zf2
 * 'redbean': http://www.redbeanphp.com/
 
 ## Clone this project:
 
-    $ composer create-project -n -s dev neilmillard/oncallslim my-app
+    $ composer create-project -n -s dev neilmillard/slim3skel my-app
 
 ### Run it:
 
