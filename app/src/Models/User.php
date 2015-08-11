@@ -38,6 +38,7 @@ class User {
      * @param Array $data
      * ['name','fullname','password']
      * @return string
+     * @throws \Exception
      */
     public function updateUser($data)
     {

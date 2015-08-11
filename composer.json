@@ -15,6 +15,12 @@
             "App\\": "app/src"
         }
     },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/neilmillard/authenticator"
+    }
+  ],
     "require": {
       "slim/slim": "^3.0",
       "slim/twig-view": "dev-master",
